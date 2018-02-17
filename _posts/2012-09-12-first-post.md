@@ -1,5 +1,5 @@
 ---
-title: First Post
+title: 新年啦
 author: Chris
 layout: post
 ---
