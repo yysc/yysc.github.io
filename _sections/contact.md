@@ -1,6 +1,10 @@
---- title: Contact icon: fa-envelope order: 4 ---
+--- 
+title: Contact 
+icon: fa-envelope 
+order: 4 
+---
 
-<p>写写信吧，闲聊一下总是好的.</p>
+<p>闲聊一下吧</p>
 
 <form method="post" action="https://formspree.io/{{ site.email }}">
     <div class="row">
